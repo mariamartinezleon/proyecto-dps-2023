@@ -13,6 +13,6 @@
 
 #### Links:
 
-* Tablero de Trello:
-* Documento:
-* Figma:
+* Documento
+* [Trello](https://trello.com/b/dIMTQydJ/proyecto-dps-2023)
+* [Figma](https://www.figma.com/file/nWrZFVFwqqYPueOvTzQ29r/DPS?node-id=0%3A1&t=Mw8Dni2eKtEXO0Kb-1)
