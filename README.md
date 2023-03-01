@@ -17,6 +17,6 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 
 #### Links:
 
-* Documento
+* [Documento](https://drive.google.com/file/d/1VcwgCNO8hXFjUzm-tl1wLICQXDOgkIsH/view?usp=share_link)
 * [Trello](https://trello.com/b/dIMTQydJ/proyecto-dps-2023)
 * [Figma](https://www.figma.com/file/nWrZFVFwqqYPueOvTzQ29r/DPS?node-id=0%3A1&t=Mw8Dni2eKtEXO0Kb-1)
